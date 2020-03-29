@@ -8081,7 +8081,7 @@ public class Calib3d {
      *      Lie Groups for 2D and 3D Transformation, Ethan Eade CITE: Eade17
      *   </li>
      *   <li>
-     *      A micro Lie theory for state estimation in robotics, Joan Solà, Jérémie Deray, Dinesh Atchuthan CITE: Sol2018AML
+     *      A micro Lie theory for state estimation in robotics, Joan SolÃ , JÃ©rÃ©mie Deray, Dinesh Atchuthan CITE: Sol2018AML
      *   </li>
      * </ul>
      */
@@ -8123,7 +8123,7 @@ public class Calib3d {
      *      Lie Groups for 2D and 3D Transformation, Ethan Eade CITE: Eade17
      *   </li>
      *   <li>
-     *      A micro Lie theory for state estimation in robotics, Joan Solà, Jérémie Deray, Dinesh Atchuthan CITE: Sol2018AML
+     *      A micro Lie theory for state estimation in robotics, Joan SolÃ , JÃ©rÃ©mie Deray, Dinesh Atchuthan CITE: Sol2018AML
      *   </li>
      * </ul>
      */
