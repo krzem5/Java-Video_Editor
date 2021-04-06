@@ -1,7 +1,6 @@
 import ntpath
 import os
 import subprocess
-import sys
 import zipfile
 
 
