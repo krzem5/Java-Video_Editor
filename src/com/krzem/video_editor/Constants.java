@@ -70,7 +70,6 @@ public class Constants{
 
 
 
-
 	private static Color _hex_color(String h){
 		return new Color(Integer.parseInt(h.substring(1,3),16),Integer.parseInt(h.substring(3,5),16),Integer.parseInt(h.substring(5,7),16));
 	}
