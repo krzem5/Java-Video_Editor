@@ -22,7 +22,6 @@ public class ResourcePanel extends Panel{
 
 
 
-
 	public ResourcePanel(Main cls,int x,int y,int w,int h){
 		super(cls,x,y,w,h);
 		this.ts=new HashMap<String,Boolean>();
