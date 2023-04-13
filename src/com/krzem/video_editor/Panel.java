@@ -19,7 +19,6 @@ public class Panel extends Constants{
 
 
 
-
 	public Panel(Main cls,int x,int y,int w,int h){
 		this.cls=cls;
 		this.x=x;
